@@ -1,0 +1,8 @@
+{
+  "name": "Remix HackRadar",
+  "description": "A unified discovery platform aggregating hackathons from across the internet, featuring deadline tracking, team formation, and personalized opportunity feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
